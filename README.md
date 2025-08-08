@@ -8,5 +8,7 @@ Hey there, I'm **Snorfield**! I'm a graphics and backend programmer who loves co
 - HTML/CSS
 - GLSL
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Snorfield&show_icons=true&theme=dark)
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snorfield&layout=compact&theme=radical)
+
 
