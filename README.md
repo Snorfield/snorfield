@@ -14,7 +14,9 @@ I'm a graphics and full stack programmer. Here's a few things about me:
 
 - I love nature, specifically evergreen forests. 
 - I have a graphic design and pixel art passion!
-- I love generative art and cellular automata
+- I love generative art and cellular automata.
+- I enjoy doing machine learning related projects!
+- Graphics programming is a pain, but I love how powerful shaders are, and for that reason, I'm addicted to writing shaders.
 - Cats are cute! (really not related, but it's true!)
 ```
 
