@@ -23,7 +23,7 @@ I'm a graphics and full stack programmer. Here's a few things about me:
 **The languages I work with include:**
 -  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/python.svg" alt="Python" width="20" /> **Python**
 -  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/cplusplus.svg" alt="CPP" width="20" /> **C++**
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/javascript.svg" alt="Javascript" width="20" /> **Javascript** inculding <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/nodedotjs.svg" alt="Node.js" width="20" /> **Node.js** and <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/discorddotjs.svg" alt="discord.js" width="20" /> **Discord.js**
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/javascript.svg" alt="Javascript" width="20" /> **Javascript** including <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/nodedotjs.svg" alt="Node.js" width="20" /> **Node.js** and <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/discorddotjs.svg" alt="discord.js" width="20" /> **Discord.js**
 -  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/godotengine.svg" alt="Javascript" width="20" /> **GDScript**
 -  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/html5.svg" alt="Javascript" width="20" /> **HTML** and <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/css.svg" alt="Javascript" width="20" /> **CSS**
 -  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/opengl.svg" alt="Javascript" width="20" /> **GLSL**
