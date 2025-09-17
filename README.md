@@ -12,12 +12,12 @@ _\ \ | | | (_) | |  |  _| |  __/ | (_| |
 
 I'm a graphics and full stack programmer. Here's a few things about me:
 
-- I love nature, specifically evergreen forests. 
+- I love nature, specifically evergreen forests.
+- I read too much, and I love the garfield comic strips.
 - I have a graphic design and pixel art passion!
 - I love generative art and cellular automata.
 - I enjoy doing machine learning related projects!
-- Graphics programming is a pain, but I love how powerful shaders are, and for that reason, I'm addicted to writing shaders.
-- Cats are cute! (really not related, but it's true!)
+- Cats and birds are cute! (really not related, but it's true!)
 ```
 
 
