@@ -5,22 +5,15 @@
 _\ \ | | | (_) | |  |  _| |  __/ | (_| |
 \__/_| |_|\___/|_|  |_| |_|\___|_|\__,_|
                                         
-
-  /\⠀/\
-( ◍•⩊•◍) Hey there, I'm Snorfield!
-  \o  o/
+Hey there, I'm Snorfield!
 
 I'm a graphics and full stack programmer. Here's a few things about me:
 
-- I love nature, specifically evergreen forests.
-- I read too much, and I love the garfield comic strips.
-- I have a graphic design and pixel art passion!
-- I love generative art and cellular automata.
-- I enjoy doing machine learning related projects!
-- Cats and birds are cute! (really not related, but it's true!)
+- I love nature, specifically forests.
+- I read quite a bit, and I love the garfield comic strips (if it wasn't obvious).
+- I'm a graphic designer, but I also dabble in pixel art since it's a medium that's pleasing to my eye.
+- Generative art and cellular automata systems interest me.
 ```
-
-
 
 **The languages I work with include:**
 -  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/python.svg" alt="Python" width="20" /> **Python**
@@ -34,6 +27,7 @@ I'm a graphics and full stack programmer. Here's a few things about me:
 **The programs I use include:**
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/blender.svg" alt="Blender" width="20" /> **Blender**
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/godotengine.svg" alt="Blender" width="20" /> **Godot**
+
 
 ##
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Snorfield&show_icons=true&theme=dark)
