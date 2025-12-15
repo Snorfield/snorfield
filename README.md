@@ -28,6 +28,7 @@ I'm a graphics and full stack programmer. Here's a few things about me:
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/blender.svg" alt="Blender" width="20" /> **Blender**
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/godotengine.svg" alt="Blender" width="20" /> **Godot**
 
+[![Snorfield's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snorfield&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
