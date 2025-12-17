@@ -11,11 +11,6 @@ I'm a graphics and full stack programmer. Here's a few things about me:
 - Procedural art and cellular automata systems interest me greatly.
 - I love applied mathematics
 
-Some of my accomplishments include having several shaderpacks on modrinth with over twelve thousand downloads.
-```
-[![sunset](sunset.png)](https://modrinth.com/shader/phial)
-[![fog](fog.png)](https://modrinth.com/shader/somber)
-```
 Languages I Use
 ├── C++
 ├── JavaScript
