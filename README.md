@@ -1,34 +1,48 @@
-```
- __                   __ _      _     _ 
-/ _\_ __   ___  _ __ / _(_) ___| | __| |
-\ \| '_ \ / _ \| '__| |_| |/ _ \ |/ _` |
-_\ \ | | | (_) | |  |  _| |  __/ | (_| |
-\__/_| |_|\___/|_|  |_| |_|\___|_|\__,_|
-                                        
+![snorfield](snorfieldbannerlarge.png)
+
+```wasm
 Hey there, I'm Snorfield!
 
 I'm a graphics and full stack programmer. Here's a few things about me:
 
-- I love nature, specifically forests.
-- I read quite a bit, and I love the garfield comic strips (if it wasn't obvious).
-- I'm a graphic designer, but I also dabble in pixel art since it's a medium that's pleasing to my eye.
-- Generative art and cellular automata systems interest me.
+- I enjoy being in nature, specifically forests.
+- I read tons of books, some of my favorite include mystery novels, and of course, the Garfield comic strips.
+- I do graphic design, as well as pixel art.
+- Procedural art and cellular automata systems interest me greatly.
+- I love applied mathematics
+
+Some of my accomplishments include having several shaderpacks on modrinth with over twelve thousand downloads.
 ```
+[![sunset](sunset.png)](https://modrinth.com/shader/phial)
+[![fog](fog.png)](https://modrinth.com/shader/somber)
+```
+Languages I Use
+├── C++
+├── JavaScript
+│   ├── Node.js
+│   ├── Discord.js
+│   └── Express.js
+├── GDScript
+├── HTML
+│   └── CSS
+├── GLSL
+└── Scratch
 
-**The languages I work with include:**
--  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/python.svg" alt="Python" width="20" /> **Python**
--  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/cplusplus.svg" alt="CPP" width="20" /> **C++**
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/javascript.svg" alt="Javascript" width="20" /> **Javascript** including <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/nodedotjs.svg" alt="Node.js" width="20" /> **Node.js** and <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/discorddotjs.svg" alt="discord.js" width="20" /> **Discord.js**
--  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/godotengine.svg" alt="Javascript" width="20" /> **GDScript**
--  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/html5.svg" alt="Javascript" width="20" /> **HTML** and <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/css.svg" alt="Javascript" width="20" /> **CSS**
--  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/opengl.svg" alt="Javascript" width="20" /> **GLSL**
--  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/scratch.svg" alt="Scratch" width="20" /> **Scratch**
+┌──────────────────────────────┐
+│         GitHub Stats         │
+├──────────────────────────────┤
+│ Stars Earned        │  12    │
+│ Commits (1y)        │  289   │
+│ PRs                 │  2     │
+│ Issues              │  1     │
+│ Contributed (1y)    │  5     │
+├──────────────────────────────┤
+│         Grade: C+            │
+└──────────────────────────────┘
 
-**The programs I use include:**
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/blender.svg" alt="Blender" width="20" /> **Blender**
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/godotengine.svg" alt="Blender" width="20" /> **Godot**
+```
+![footer](footerbannersmall.png)
 
-[![Snorfield's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snorfield&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
