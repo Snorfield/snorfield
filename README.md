@@ -24,6 +24,15 @@
 
 <br>
 
+<div align="center">
+<!-- DAILY_QUOTE_START -->
+“𝐈𝐭'𝐬 𝐭𝐡𝐞 𝐣𝐨𝐛 𝐭𝐡𝐚𝐭'𝐬 𝐧𝐞𝐯𝐞𝐫 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 𝐚𝐬 𝐭𝐚𝐤𝐞𝐬 𝐥𝐨𝐧𝐠𝐞𝐬𝐭 𝐭𝐨 𝐟𝐢𝐧𝐢𝐬𝐡.”
+― 𝐉.𝐑.𝐑. 𝐓𝐨𝐥𝐤𝐢𝐞𝐧, 𝐓𝐡𝐞 𝐋𝐨𝐫𝐝 𝐨𝐟 𝐭𝐡𝐞 𝐑𝐢𝐧𝐠𝐬
+<!-- DAILY_QUOTE_END -->
+</div>
+
+<br>
+
 ```wasm
 Hey there, I'm Snorfield!
 
