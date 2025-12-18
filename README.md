@@ -20,6 +20,10 @@
   <img src="https://cdn.simpleicons.org/opengl/5586A4" width="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/scratch/855CD6" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/0f80cc" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/webgl/990000" width="40" />
 </div>
 
 <br>
