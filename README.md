@@ -58,6 +58,7 @@ Languages I Use
 ├── HTML
 │   └── CSS
 ├── GLSL
+├── SQLite
 └── Scratch
 
 ┌──────────────────────────────┐
