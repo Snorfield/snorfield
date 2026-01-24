@@ -60,20 +60,19 @@ Languages I Use
 ├── GLSL
 ├── SQLite
 └── Scratch
-
-┌──────────────────────────────┐
-│         GitHub Stats         │
-├──────────────────────────────┤
-│ Stars Earned        │  12    │
-│ Commits (1y)        │  289   │
-│ PRs                 │  2     │
-│ Issues              │  1     │
-│ Contributed (1y)    │  5     │
-├──────────────────────────────┤
-│         Grade: C+            │
-└──────────────────────────────┘
-
 ```
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snorfield&theme=github_dark_dimmed"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snorfield&theme=github_dark_dimmed"/>
+  <a href="https://github.com/snorfield/dither">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=snorfield&repo=dither&theme=github_dark_dimmed"
+    alt="Dither"
+  />
+</a>
+</div>
+
 ![footer](footerbannersmall.png)
 
 
