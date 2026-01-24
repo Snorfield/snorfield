@@ -64,7 +64,7 @@ Languages I Use
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snorfield&theme=github_dark_dimmed"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snorfield&theme=github_dark_dimmed"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snorfield&theme=github_dark_dimmed&layout=donut"/>
   <a href="https://github.com/snorfield/dither">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=snorfield&repo=dither&theme=github_dark_dimmed"
