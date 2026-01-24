@@ -45,8 +45,8 @@ I'm a graphics and full stack programmer. Here's a few things about me:
 - I read tons of books, some of my favorite include mystery novels, and of course, the Garfield comic strips.
 - I do graphic design, as well as pixel art.
 - Procedural art and cellular automata systems interest me greatly.
-- I love applied mathematics
-- I'm a massive fan of open source projects
+- I love applied mathematics.
+- I'm a massive fan of open source projects!
 
 Languages I Use
 ├── C++
