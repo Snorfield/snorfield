@@ -36,29 +36,24 @@
 
 <br>
 
-```wasm
-Hey there, I'm Snorfield!
+```cmd
+> cat snorfield.txt
 
-I'm a graphics and full stack programmer. Here's a few things about me:
+Hey there, Snorfield here! I'm a Canadian software engineer, graphic designer, artist, and musician.
 
-- I enjoy being in nature, specifically forests.
-- I read tons of books, some of my favorite include mystery novels, and of course, the Garfield comic strips.
-- I do graphic design, as well as pixel art.
-- Procedural art and cellular automata systems interest me greatly.
-- I love applied mathematics.
-- I'm a massive fan of open source projects!
-
-Languages I Use
+Tools I Use
 ├── C++
 ├── JavaScript
 │   ├── Node.js
 │   ├── Discord.js
 │   └── Express.js
-├── GDScript
 ├── HTML
 │   └── CSS
 ├── GLSL
+├── Python
 ├── SQLite
+├── Blender
+├── Figma
 └── Scratch
 ```
 
